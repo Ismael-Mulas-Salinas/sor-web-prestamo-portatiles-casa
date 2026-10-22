@@ -105,7 +105,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +189,13 @@
   },
   "active": "91043902e27fa16f",
   "lastOpenFiles": [
-    "web/normas.html.md",
-    "web/contacto.html.md",
-    "web/index.html.md",
     "01_Proyecto/gitignore.md",
+    "web/index.html.md",
+    "web/contacto.html.md",
+    "web/normas.html.md",
+    "web/imagenes/portatil.png.md",
+    "web/imagenes",
+    "Sin nombre",
     "web/imagenes.md",
     "01_Proyecto/00_bitacora/b0-p01-casa-prestamo-portatil.md.md",
     "01_Proyecto/Sin nombre",
@@ -208,8 +210,6 @@
     "web/normas.html",
     "web/index.html",
     "01_Proyecto/b0-p01-casa-prestamo-portatil.md",
-    "01_Proyecto/gitignore",
-    "web",
     "Bienvenido.md"
   ]
 }
